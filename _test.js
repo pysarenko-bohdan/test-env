@@ -6,6 +6,6 @@ else {
 printLog(fullStr, 'full');
 printLog(lengtha, 'length');
 printLog(fullStr.substring(0,1), 'trimmed');
-printLog(fullStr.substring(0,1).length, 'full');  
+printLog(fullStr.substring(0,1).length, 'length');  
 }
 
